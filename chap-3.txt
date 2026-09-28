@@ -11,4 +11,4 @@ rmdir
 rm -rm
 componentsmv
 lolcat
-nano
+nanofv 
