@@ -1,2 +1,12 @@
 baic interduction to computers
 and their impact in our life
+ 
+ types of computers
+ -personal computers
+ -embedded computers
+ -supercomputer
+ -quantum computers
+
+ juiucer is not a computer.
+
+ some random changes in chapter 1gti

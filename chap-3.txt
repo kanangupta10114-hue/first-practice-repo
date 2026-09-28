@@ -1,0 +1,14 @@
+CLI
+
+navigate computer with termianl
+cd 
+mkdir
+echo
+cat
+ls
+rm
+rmdir
+rm -rm
+componentsmv
+lolcat
+nano

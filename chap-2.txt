@@ -1,3 +1,15 @@
 SOFTWARE VS HARDWARE
 
 we learned about the software and hardware components of a computer
+
+hardware
+-SSD
+-ram
+-GPU
+-computer
+-mother board
+-cabinet
+-socket
+-USB
+
+SOFTWARE
